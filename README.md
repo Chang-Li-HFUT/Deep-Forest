@@ -1,6 +1,5 @@
 # Deep-Forest
 Code for paper: Emotion Recognition from Multi-Channel EEG via Deep Forest. Juan Cheng, Meiyao Chen, Chang Li, Yu Liu, Rencheng Song, Aiping Liu, Xun Chen. IEEE Journal of Biomedical and Health Informatics, 2020. 
-Code for the paper: "Emotion Recognition from Multi-Channel EEG via Deep Forest".
 ## About the paper
 * Title: [Emotion Recognition from Multi-Channel EEG via Deep Forest](https://ieeexplore.ieee.org/document/9096541)
 * Institution: Hefei University of Technology
